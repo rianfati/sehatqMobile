@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>registerPasswordField</name>
+   <tag></tag>
+   <elementGuidId>026f8904-41eb-49ff-a8d8-6679bfdaec85</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.EditText</value>
+      <webElementGuid>4829edf7-14d0-4068-adb2-079579ef52a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>c07c7f23-88bb-47bb-a3c4-67603938048e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>resource-id</name>
+      <type>Main</type>
+      <value>com.she.sehatq:id/et_input</value>
+      <webElementGuid>625e17e2-003c-4b43-945e-f8be60dfe953</webElementGuid>
+   </webElementProperties>
+   <locator>//*[(@text = 'Password' or . = 'Password')]</locator>
+   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+</MobileElementEntity>

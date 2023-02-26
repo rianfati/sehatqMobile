@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>loginFieldEmail</name>
+   <tag></tag>
+   <elementGuidId>45d44071-3d79-4500-905c-fc7c2c53a0e8</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.EditText</value>
+      <webElementGuid>3d4d702f-9e6a-4633-8aa1-b9a37e2cb9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>71d08b64-d63f-4c33-9f68-8292206b7edb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>resource-id</name>
+      <type>Main</type>
+      <value>com.she.sehatq:id/et_input</value>
+      <webElementGuid>ae52e6e7-bbc1-41db-a701-2fbb613ad661</webElementGuid>
+   </webElementProperties>
+   <locator>//*[@class = 'android.widget.EditText' and (@text = 'Email' or . = 'Email') and @resource-id = 'com.she.sehatq:id/et_input']</locator>
+   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+</MobileElementEntity>

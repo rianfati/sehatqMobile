@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>registerEmailField</name>
+   <tag></tag>
+   <elementGuidId>2906e20a-32ff-4296-b5cf-808f8402efce</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.EditText</value>
+      <webElementGuid>8dc0c30c-a67f-4781-a29e-a8741c244d4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email</value>
+      <webElementGuid>1f1de2ca-a6bb-463f-9559-0b3d3a2033b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>resource-id</name>
+      <type>Main</type>
+      <value>com.she.sehatq:id/et_input</value>
+      <webElementGuid>2d1d1fdb-a3f4-4930-b90a-9e3dddea30fa</webElementGuid>
+   </webElementProperties>
+   <locator>//*[(@text = 'Email' or . = 'Email')]</locator>
+   <locatorStrategy>ATTRIBUTES</locatorStrategy>
+</MobileElementEntity>

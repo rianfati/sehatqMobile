@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>editProfileHeight</name>
+   <tag></tag>
+   <elementGuidId>74ed3909-8e79-4036-8b74-92c8ad1357e5</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.EditText</value>
+      <webElementGuid>697b46dc-ccf6-4c5a-a646-b2e3799e6d93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan email yang valid</value>
+      <webElementGuid>b1a5e54d-62be-42eb-b3aa-d34cf3a66662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>resource-id</name>
+      <type>Main</type>
+      <value>com.she.sehatq:id/et_input</value>
+      <webElementGuid>4fb98010-4f5a-466e-98e5-c87f95b41abd</webElementGuid>
+   </webElementProperties>
+   <locator>/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/androidx.appcompat.widget.LinearLayoutCompat[4]/androidx.appcompat.widget.LinearLayoutCompat/android.view.ViewGroup/android.widget.EditText</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MobileElementEntity>
+   <description></description>
+   <name>editProfileSaveButton</name>
+   <tag></tag>
+   <elementGuidId>f7fa8029-32ec-42ad-ae30-fc83071356fb</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>android.widget.EditText</value>
+      <webElementGuid>3f1478ef-b9c5-4f3d-a4c5-e1985d2a9991</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Masukkan email yang valid</value>
+      <webElementGuid>ffee55eb-8710-4100-a09e-4ddac9b058b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>resource-id</name>
+      <type>Main</type>
+      <value>com.she.sehatq:id/et_input</value>
+      <webElementGuid>96597a55-7fc7-48f7-b302-f99c2b034b33</webElementGuid>
+   </webElementProperties>
+   <locator>/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.FrameLayout/android.view.ViewGroup/android.widget.ScrollView/android.view.ViewGroup/android.widget.Button</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</MobileElementEntity>
